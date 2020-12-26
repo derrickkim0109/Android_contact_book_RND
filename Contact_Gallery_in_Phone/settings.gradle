@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Contact_Gallery_in_Phone"
